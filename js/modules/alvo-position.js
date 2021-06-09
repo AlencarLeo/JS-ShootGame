@@ -14,5 +14,4 @@ alvos.forEach((i)=>{
     let y = Math.random() * (maxY - minY) + minY;
     i.style.top = y + 'px';
     i.style.left = x + 'px';
-    console.log(i.style)
 })
