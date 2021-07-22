@@ -1,3 +1,10 @@
+<p align="center">
+  <img width=20px src="assets/readme/attencion.svg">
+  <b>ON PROGRESS...</b>
+  <img width=20px src="assets/readme/attencion.svg">
+</p>
+<br>
+<br>
 <h1 align="center">JS COLOR CHANGER</h1>
 <p align="center">A color changer coded with JS</p>
 
