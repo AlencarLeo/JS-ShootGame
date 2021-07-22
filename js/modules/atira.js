@@ -5,14 +5,11 @@ export default function toShot(){
     
         let xShot = e.clientX;
         let yShot = e.clientY;
-
-        console.log(xShot, yShot)
     
         div.classList.add('armor-shot')
     
         div.style.top = yShot + 'px';
         div.style.left = xShot + 'px';
-    
     
         document.body.appendChild(div);
     }
