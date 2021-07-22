@@ -1,7 +1,7 @@
 <p align="center">
-  <img width=20px src="assets/readme/attencion.svg">
+  <img width=20px src="readme/attencion.svg">
   <b>ON PROGRESS...</b>
-  <img width=20px src="assets/readme/attencion.svg">
+  <img width=20px src="readme/attencion.svg">
 </p>
 <br>
 <br>
