@@ -5,7 +5,7 @@
 </p>
 <br>
 <br>
-<h1 align="center">JS COLOR CHANGER</h1>
+<h1 align="center">JS SHOOT GAME</h1>
 <p align="center">A color changer coded with JS</p>
 
 <p align="center">
