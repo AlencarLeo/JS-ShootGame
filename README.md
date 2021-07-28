@@ -14,6 +14,11 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlencarLeo/JS-ShootGame?style=for-the-badge">
   <img alt="GitHub" src="https://img.shields.io/github/license/AlencarLeo/JS-ShootGame?style=for-the-badge">
 </p>
+
+<p align="center">
+  👉 <a href="https://alencarleo.github.io/JS-ShootGame/">click here to see this project</a> 👈
+</p>
+
 <p align="center">
   <img src="/readme/demo.gif">
 </p>
